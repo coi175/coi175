@@ -10,7 +10,7 @@
 - основы SQL;
 - основы верстки (HTML, CSS, JavaScript, BootStrap, jQuery, AJAX);
 - Git, GitHub, GitLab.
-- 
+
 #### Планирую изучить:
 - тестирование (JUnit, Mockito);
 - продвинутые особенности языка Java;
@@ -24,12 +24,12 @@
 - специальные практические задачи с сайтов, таких как HackerRank.
 
 #### Я прошёл курсы:
-**Algorithms, Part I** на Coursera - https://www.coursera.org/user/ecc47bbc002beb475c4ea09f54410025
-**Coding Garden for Testing** от компании 7bits - https://drive.google.com/file/d/1HN1D8uz9o_T6iyrYQhfa4b1fvA5TURb5/view?usp=sharing
+- **Algorithms, Part I** на Coursera - https://www.coursera.org/user/ecc47bbc002beb475c4ea09f54410025
+- **Coding Garden for Testing** от компании 7bits - https://drive.google.com/file/d/1HN1D8uz9o_T6iyrYQhfa4b1fvA5TURb5/view?usp=sharing
 
 #### Я разработал:
-**Онлайн-ежедневник на сервлетах** - https://github.com/coi175/OnlineDateBook
-**Веб-приложения для автошколы на Spring Boot** - https://github.com/coi175/exdriving.school
+- **Онлайн-ежедневник на сервлетах** - https://github.com/coi175/OnlineDateBook
+- **Веб-приложения для автошколы на Spring Boot** - https://github.com/coi175/exdriving.school
 
 **Использую две операционные системы: Windows 10 и Arch Linux с оболочкой i3wm.**
 
