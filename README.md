@@ -65,7 +65,7 @@ I am a beginner developer, at various times I was interested in C, C ++, HTML + 
 - **Coding Garden for Testing** by 7bits - https://drive.google.com/file/d/1HN1D8uz9o_T6iyrYQhfa4b1fvA5TURb5/view?usp=sharing
 
 #### I have developed:
-- **Online Servlet Diary** - https://github.com/coi175/OnlineDateBook
+- **Online Diary with Servlets** - https://github.com/coi175/OnlineDateBook
 - **Driving School Web Apps on Spring Boot** - https://github.com/coi175/exdriving.school
 
 **I use two operating systems: Windows 10 and Arch Linux with i3wm shell.** 
