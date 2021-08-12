@@ -11,12 +11,6 @@
 - основы верстки (HTML, CSS, JavaScript, BootStrap, jQuery, AJAX);
 - Git, GitHub, GitLab.
 
-#### Планирую изучить:
-- тестирование (JUnit, Mockito);
-- продвинутые особенности языка Java;
-- многопоточность;
-- методологии разработки.
-
 #### В процессе обучения я использовал:
 - русско- и англоязычные статьи;
 - видео на ютубе;
@@ -47,12 +41,6 @@ I am a beginner developer, at various times I was interested in C, C ++, HTML + 
 - SQL basics;
 - layout basics (HTML, CSS, JavaScript, BootStrap, jQuery, AJAX);
 - Git, GitHub, GitLab.
-
-#### I plan to study:
-- testing (JUnit, Mockito);
-- advanced features of the Java language;
-- multithreading;
-- development methodology.
 
 #### During training I used:
 - Russian and English language articles;
