@@ -1,5 +1,6 @@
 ### Меня зовут Фабер Евгений
-**Моё резюме в формате PDF: https://drive.google.com/file/d/1oLRITz3mGKO63Q1d4Eic-jrII0af5FcN/view?usp=sharing** 
+**Моё резюме в формате PDF: https://drive.google.com/file/d/1oLRITz3mGKO63Q1d4Eic-jrII0af5FcN/view?usp=sharing**
+
 Я начинающий разработчик, в разное время интересовался технологиями C, C++, HTML+CSS+JavaScript и Python. Сейчас активно изучаю **язык программирования Java**.
 #### Я изучил:
 - синтаксис Java;
