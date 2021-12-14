@@ -1,23 +1,26 @@
 ### Меня зовут Фабер Евгений
-**Моё резюме в формате PDF: https://drive.google.com/file/d/1oLRITz3mGKO63Q1d4Eic-jrII0af5FcN/view?usp=sharing**
+**Моё резюме в формате PDF: https://drive.google.com/file/d/1EOU8dyf7tjbgEg1gFDVnu25ceA-V-Rfc/view?usp=sharing**
 
 Я начинающий разработчик, в разное время интересовался технологиями C, C++, HTML+CSS+JavaScript и Python. Сейчас активно изучаю **язык программирования Java**.
 #### Я изучил:
 - синтаксис Java;
 - ООП;
 - коллекции;
+- многопоточность;
+- основные структуры данных и алгоритмы;
 - сервлеты;
 - Spring Boot;
-- JDBC, Spring Data JPA (Hibernate);
+- JDBC, Spring Data JPA, Hibernate;
 - основы SQL;
-- основы верстки (HTML, CSS, JavaScript, BootStrap, jQuery, AJAX);
-- Git, GitHub, GitLab.
+- вёрстку на базовом уровне (HTML, CSS, JavaScript, BootStrap, jQuery, AJAX);
+- Git, GitHub.
 
 #### В процессе обучения я использовал:
 - русско- и англоязычные статьи;
 - видео на ютубе;
-- книгу "Брюс Эккель Thinking in Java" (выборочно);
-- специальные практические задачи с сайтов, таких как HackerRank.
+- книги, такие как "Брюс Эккель Thinking in Java" и "Java. Библиотека профессионала;
+- сервисы с практическими задачами, такие как LeetCode, Hackerrank;
+- разработка своих проектов.
 
 #### Я прошёл курсы:
 - **Algorithms, Part I** на Coursera - https://www.coursera.org/user/ecc47bbc002beb475c4ea09f54410025
@@ -27,6 +30,11 @@
 - **Онлайн-ежедневник на сервлетах** - https://github.com/coi175/OnlineDateBook
 - **Веб-приложения для автошколы на Spring Boot** - https://github.com/coi175/exdriving.school
 
+#### В планах:
+- дальше разбираться в алгоритмах и структурах данных, разобрать паттерны проектирования;
+- повторять знания Java Core;
+- разработать большой и насколько возможно качественный проект на стеке Spring с использованием React для фронтенда.
+- 
 **Использую две операционные системы: Windows 10 и Arch Linux с оболочкой i3wm.**
 
 
@@ -37,6 +45,8 @@ I am a beginner developer, at various times I was interested in C, C ++, HTML + 
 - Java syntax;
 - OOP;
 - collections;
+- concurrency;
+- basic data structures and algorithms;
 - servlets;
 - Spring Boot;
 - JDBC, Spring Data JPA (Hibernate);
@@ -47,7 +57,7 @@ I am a beginner developer, at various times I was interested in C, C ++, HTML + 
 #### During training I used:
 - Russian and English language articles;
 - video on YouTube;
-- the book "Bruce Eckel Thinking in Java" (selected);
+- the book "Bruce Eckel Thinking in Java" and "Core Java Cay Horstmann";
 - special practice tasks from sites like HackerRank.
 
 #### I took courses:
@@ -57,6 +67,11 @@ I am a beginner developer, at various times I was interested in C, C ++, HTML + 
 #### I have developed:
 - **Online Diary with Servlets** - https://github.com/coi175/OnlineDateBook
 - **Driving School Web Apps on Spring Boot** - https://github.com/coi175/exdriving.school
+
+#### Plans:
+- to further understand algorithms and data structures, to analyze design patterns;
+- repeat knowledge of Java Core;
+- develop a large and as high-quality project as possible on the Spring stack using React for the frontend.
 
 **I use two operating systems: Windows 10 and Arch Linux with i3wm shell.** 
 
