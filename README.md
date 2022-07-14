@@ -28,6 +28,11 @@
 #### Я разработал:
 - **Онлайн-ежедневник на сервлетах** - https://github.com/coi175/OnlineDateBook
 - **Веб-приложения для автошколы на Spring Boot** - https://github.com/coi175/exdriving.school
+- **Систему мониторинга сотрудников предприятия на Spring Boot и React** - https://github.com/coi175/Employee-monitoring-system
+
+#### В планах:
+- Разработать веб-платформу обучения программирования у наставников - большой проект на Spring Boot и React.
+- Поучаствовать в Open Source разработке. 
 
 **Использую две операционные системы: Windows 10 и Arch Linux с оболочкой i3wm.**
 
